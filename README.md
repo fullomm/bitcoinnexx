@@ -1,0 +1,2 @@
+# bitcoinnexx - a cryptocurrency implementation   
+ 
